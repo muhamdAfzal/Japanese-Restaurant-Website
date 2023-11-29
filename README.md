@@ -19,4 +19,4 @@ The whole site is being developed with =>
 
 Live site link: https://stupendous-sundae-6059c1.netlify.app/
 
-P.S.: Visit the live site with Firefox browser
+P.S.: Please visit the live site with Mozilla Firefox browser
