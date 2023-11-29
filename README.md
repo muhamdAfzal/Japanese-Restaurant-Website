@@ -1,4 +1,4 @@
-# "Japanese Restaurant" a restaaurant web
+# "Japanese Restaurant" a restaurant web
 
 This website is a japanese restaurant website. Some of the best feature of this website are:
 
@@ -15,8 +15,12 @@ The whole site is being developed with =>
 
 - [React Vite](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md)
 - [React Router Dom](https://reactrouter.com/en/main)
-- [Bootstrap](https://getbootstrap.com/) a Powerful, extensible, and feature-packed frontend toolkit..
+- [Bootstrap](https://getbootstrap.com/) a Powerful, extensible, and feature-packed frontend toolkit.
+- [MongoDB Atlas](https://www.mongodb.com/) a a source-available cross-platform document-oriented NoSQL database program.
 
 Live site link: https://stupendous-sundae-6059c1.netlify.app/
+
+Backend server link: https://github.com/muhamdAfzal/Japanese-Restaurant-Server
+
 
 P.S.: Please visit the live site with Mozilla Firefox browser
