@@ -1,0 +1,9 @@
+.active {
+  color: #f7b53b;
+  text-decoration: underline;
+  font-weight: 600;
+}
+
+.defuse {
+  color: #757575;
+}
