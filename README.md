@@ -13,10 +13,14 @@ This website is a simple website for a restaurant website, which is very easy to
 
 The whole site is being developed with =>
 
+## Frontend
 - [React Vite](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md)
 - [React Router Dom](https://reactrouter.com/en/main)
 - [Bootstrap](https://getbootstrap.com/) a Powerful, extensible, and feature-packed frontend toolkit.
-- [MongoDB Atlas](https://www.mongodb.com/) a a source-available cross-platform document-oriented NoSQL database program.
+
+## Backend
+- [Express.js](https://expressjs.com/) a fast, unopinionated, minimalist web framework for Node.js.
+- [MongoDB Atlas](https://www.mongodb.com/) a source-available cross-platform document-oriented NoSQL database program.
 
 Live site link: https://stupendous-sundae-6059c1.netlify.app/
 
