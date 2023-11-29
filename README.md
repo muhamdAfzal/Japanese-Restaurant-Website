@@ -22,9 +22,9 @@ The whole site is being developed with =>
 - [Express.js](https://expressjs.com/) a fast, unopinionated, minimalist web framework for Node.js.
 - [MongoDB Atlas](https://www.mongodb.com/) a source-available cross-platform document-oriented NoSQL database program.
 
-Live site link: https://stupendous-sundae-6059c1.netlify.app/
-
 Backend server link: https://github.com/muhamdAfzal/Japanese-Restaurant-Server
 
+Live site link: https://stupendous-sundae-6059c1.netlify.app/
 
-P.S.: Please visit the live site with Mozilla Firefox browser
+
+P.S. Please visit the live site with Mozilla Firefox browser!!!!!
