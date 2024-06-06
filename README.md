@@ -24,7 +24,7 @@ The whole site is being developed with =>
 
 Backend server link: https://github.com/muhamdAfzal/Japanese-Restaurant-Server
 
-Live site link: https://stupendous-sundae-6059c1.netlify.app/
+Live site link: https://jp-restaurant.netlify.app/
 
 
-P.S. Please visit the live site with Mozilla Firefox browser!!!!!
+P.S. Please visit the live site with the Mozilla Firefox browser if all the components aren't shown in the Google Chrome Browser!!!!!
